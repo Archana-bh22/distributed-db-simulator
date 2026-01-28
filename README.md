@@ -53,17 +53,20 @@ distributed-db-simulator/
 - Python 3.9+
 - No external libraries required
 
-### Run the simulator
+## ▶️ Run the simulator
+
 ```bash
 python run.py
 
-🧪 Available Commands
+
+✅ Available Commands
 
 Once the system starts, you can use:
-benchmark N RW CS SK – Run benchmark
-PrintDB – Print all balances
-Performance – Show performance metrics
-(Press Enter) – Continue test execution
+-benchmark N RW CS SK – Run benchmark
+-PrintDB – Print all balances
+-Performance – Show performance metrics
+-(Press Enter) – Continue test execution
+
 
 📊 Sample Output
 
@@ -71,6 +74,7 @@ Performance – Show performance metrics
 [CONTROLLER] Loaded 10 test sets
 [n1] State reset for new test set
 ...
+
 
 🧠 Concepts Demonstrated
 
